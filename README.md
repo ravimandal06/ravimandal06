@@ -2,12 +2,8 @@
 
 - 🔭 I’m currently working on Android Projects.
 - 🌱 I’m currently learning More about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/ravimandal06)
-- 🤔 I’m looking for help with Native Documentation.
-- 💬 Ask me about Java or any tech-related stuff.
 - 📫 How to reach me: [LinkedIn - @ravimandal06](https://www.linkedin.com/in/ravimandal06/) , [Portfolio - @iamravi](https://ravimandal06.github.io/ravimandal.github.io/)
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
 
 
 <!-- <p dir="auto">
