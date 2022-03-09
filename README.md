@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Android Projects.
 - 🌱 I’m currently learning More about BlockChain.
 - 📫 How to reach me: [LinkedIn - @ravimandal06](https://www.linkedin.com/in/ravimandal06/) , [Portfolio - @iamravi](https://ravimandal06.github.io/ravimandal.github.io/)
-- 😄 Pronouns: He/His.
 
 
 <!-- <p dir="auto">
