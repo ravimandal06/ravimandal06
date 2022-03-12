@@ -15,8 +15,8 @@ Languages and Tools:
 <img src="https://img.icons8.com/color/30/000000/android-os.png"> <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png"> <img src="https://img.icons8.com/color/30/000000/python--v1.png">  <img src="https://img.icons8.com/ios-filled/30/ffffff/django.png"> <img src="https://img.icons8.com/color/30/000000/javascript--v1.png">
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimandal06&layout=compact)](https://github.com/ravimandal06/github-readme-stats) ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimandal06&show_icons=true&theme=white)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravimandal06&layout=compact)](https://github.com/ravimandal06/github-readme-stats) ![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravimandal06&show_icons=true&theme=white) -->
 
 <!-- [![JavaExampleApp](https://github-readme-stats.vercel.app/api/pin/?username=ravimandal06&repo=PopularNews)](https://github.com/anuraghazra/PopularNews) 
 [![Android-Login-Authentication-System-Firebase](https://github-readme-stats.vercel.app/api/pin/?username=ravimandal06&repo=Android-Login-Authentication-System-Firebase)](https://github.com/anuraghazra/Android-Login-Authentication-System-Firebase) -->
