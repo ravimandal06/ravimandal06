@@ -1,4 +1,4 @@
-### Hello, I'm Ravi Mandal! 👋
+### Hello, I'm Ravi! 👋
 
 - 🔭 I’m currently working on Android Projects.
 - 🌱 I’m currently learning More about BlockChain.
