@@ -42,10 +42,10 @@ This repository serves as a showcase of my past projects, certifications, and sk
 ---
 
 ## Skills:
-- **Languages:** Dart, Python, Java.
+- **Languages:** Dart, Python, Java, Kotlin.
 - **Frameworks:** Flutter, Flask.
-- **Database:** Firebase Realtime Database, SQLite.
-- **Others:** XML, UI/UX Design.
+- **Database:** Firebase Realtime Database, SQLite, Supabase.
+- **Others:** XML, UI/UX Design (Figma) .
 
 ---
 
