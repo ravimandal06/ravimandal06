@@ -1,7 +1,3 @@
-# Project Portfolio
-
----
-
 ## Skills:
 - **Languages:** Dart, Python, Java, Kotlin.
 - **Frameworks:** Flutter, Flask.
